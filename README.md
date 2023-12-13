@@ -1,4 +1,4 @@
-# CS741 Project
+# Secure K-NN Computation in Cloud
 
 This ia an implementation of secure KNN computation in cloud.
 
